@@ -1,0 +1,1 @@
+from . import circle, figure_color, geometric_figure, rectangle, square
